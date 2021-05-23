@@ -2,7 +2,7 @@
 
 This repository contains the Project that includes Analysis of Baltimore Crime Data from 2011 to 2016<br>
 
-This Project will dive deep into Criminal Activities in Baltimore<br>
+This Project will deep dive into Criminal Activities in Baltimore<br>
 This Analysis Project will give you the answers to the below questions in the mentioned order as a whole from the year 2011 to 2015 with appropriate visualizations and texts<br>
 What is the number of Crimes in each District of Baltimore?<br>
 How many crimes are committed related to each Weapon?<br>
